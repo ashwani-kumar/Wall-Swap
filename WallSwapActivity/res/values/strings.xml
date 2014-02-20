@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, WallSwapActivity!</string>
+    <string name="app_name">WallSwap</string>
+    <string name="mainmsg">Change wallpaper after</string>
+    <string name="msg1">every 1 minute</string>
+    <string name="msg2">every 5 minute</string>
+    <string name="msg3">every 10 minute</string>
+    <string name="msg4">every 30 minute</string>
+    <string name="msg5">every hour</string>
+    <string name="msg6">every 24 hour</string>
+    <string name="set">Set</string>
+    <string name="unset">Unset</string>
+    <string name="gallery">Gallery</string>
+    <string name="select">Select</string>
+    <string name="nosd">No SD Card</string>
+</resources>
